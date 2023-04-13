@@ -1,3 +1,7 @@
 This schema demonstrates how to make versioned, attestable databases.
 
 Your database can be attested, versioned, synchronized and also used with inclusion proofs using Merkle trees.
+
+# :star: discuss live
+
+Review the different (blockchain-y) use cases this model allows in existing, real, enterprise businesses on the [Community Service Hour weekly phone call/podcast](https://phor.net/#hour).
